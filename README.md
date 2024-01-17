@@ -10,11 +10,11 @@
 <div>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xiaoChi888&theme=material-palenight&layout=compact&locale=cn" align="left" width="300" height="140"/>
-    在我看来，ActionScript与C♯都是非常有趣的语言。只是我更早地接触了ActionScript许多年，它于我而言是编程生涯中的初恋，我更熟悉与它相关的Flash和AIR。C#以及Unity和.NET也非常实用，但对我来说开发可能还会相对依赖查阅API文档。但总的来说，已经非常熟悉这两门语言了。<br>
+    在我看来，ActionScript与C#都是非常有趣的语言。只是我更早地接触了ActionScript许多年，它于我而言是编程生涯中的初恋，我更熟悉与它相关的Flash和AIR。当然C#以及Unity和.NET也非常实用，只是对我来说开发可能还会相对依赖查阅API文档。但总体而言，已经非常熟悉这两门语言了。<br>
   </p>
 </div>
 <br>
 
-最近创建了一个新的存储库， [Palette](https://github.com/xiaoChi888/Palette "Palette") 。就像它的名字Palette（调色板）一样，我希望将它开发成一个跨开发语言的游戏开发工具类库，在各语言中提供相似的API，使用者能够更随心地选择用什么工具，目前已经分别用ActionScript与C#实现了A*算法。
+最近创建了一个新的存储库， [Palette](https://github.com/xiaoChi888/Palette "Palette") 。就像它的名字Palette（调色板）一样，我希望将它开发成一个跨开发语言的游戏开发工具类库，在各语言中提供相似的API（符合命名约定的前提下），使用者能够更随心地选择用什么工具，目前已经分别用ActionScript与C#实现了A*算法。
 
 <!--Thanks to github.com/anuraghazra/github-readme-stats-->
