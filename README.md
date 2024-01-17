@@ -3,7 +3,7 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=xiaoChi888&theme=material-palenight&show_icons=true&locale=cn" align="right" width="467" height="195"/>
     一名普通的数字媒体技术专业的本科生，<b>主要掌握的语言是ActionScript和C#</b>，也可以尝试编写一些不标准的JavaScript与Python。<br>
-    在2016年接触了ActionScript，这是一门主要应用于Flash Platform的语言，我现在比较熟悉用它进行AIR应用程序或游戏的开发。2022年开始学习C#，后来主要用它做基于Unity的开发。<br>
+    在2016年接触了ActionScript，这是一门主要应用于Flash Platform的语言，我现在比较熟悉用它进行AIR应用程序或游戏的开发。2022年开始学习C#，后来主要用它做基于Unity的开发，与朋友们合作开发过一些小游戏。<br>
   </p>
 </div>
 <br>
@@ -15,6 +15,6 @@
 </div>
 <br>
 
-最近创建了一个新的存储库， [Palette](https://github.com/xiaoChi888/Palette "Palette") 。就像它的名字Palette（调色板）一样，我希望将它开发成一个跨开发语言的游戏工具开发类库，在各语言中提供相似的API，使用者能够更随心地选择用什么工具，目前已经分别用ActionScript与C#实现了A*算法。
+最近创建了一个新的存储库， [Palette](https://github.com/xiaoChi888/Palette "Palette") 。就像它的名字Palette（调色板）一样，我希望将它开发成一个跨开发语言的游戏开发工具类库，在各语言中提供相似的API，使用者能够更随心地选择用什么工具，目前已经分别用ActionScript与C#实现了A*算法。
 
 <!--Thanks to github.com/anuraghazra/github-readme-stats-->
